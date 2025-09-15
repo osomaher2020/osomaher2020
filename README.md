@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Osama Maher Wahba
+# 👋 Hi, I’m Osama Maher
 
 💻 **Senior Frontend Engineer | Software Team Lead**  
 🌍 Based in Cairo, Egypt | 10+ years of experience in **web development**  
