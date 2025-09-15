@@ -46,12 +46,6 @@ I specialize in building **scalable, high-performance web applications** with **
 
 ---
 
-## 📈 GitHub Stats
-
-![Osama’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=osomaher2020&show_icons=true&theme=radical)
-
----
-
 ## 📚 Career Highlights
 - **Software Team Lead @ Digital Car (2022–Present):** Led development of Digital Car E-Commerce and Maysan Jobs Platform, improving delivery speed via CI/CD and code reviews.  
 - **Senior Frontend Developer @ ArabProspect (2021–2022):** Built **CourseTopia** LMS with Next.js & Redux Toolkit, mentoring junior developers.  
